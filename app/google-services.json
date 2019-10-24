@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "809354888197",
+    "firebase_url": "https://android-lanjutan-1af2a.firebaseio.com",
+    "project_id": "android-lanjutan-1af2a",
+    "storage_bucket": "android-lanjutan-1af2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809354888197:android:fcd0e01a398a9fdff1886c",
+        "android_client_info": {
+          "package_name": "com.imastudio.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809354888197-ds4dk8tsr93qv4uj3tpj55mmfjouag7k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.imastudio.firebaseapp",
+            "certificate_hash": "837e37421261e913b2de7d84955d1dd9da2a61f0"
+          }
+        },
+        {
+          "client_id": "809354888197-modh567f73q397q5kg2b7m0u1ik3do62.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqhCjyTW0bXUY2CjI68jzc9bkJzeY8-ag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809354888197-modh567f73q397q5kg2b7m0u1ik3do62.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
